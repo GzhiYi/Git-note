@@ -9,9 +9,10 @@ linux:
 $ sudo apt-get install git
 ```
 Windows: 
+
 install git windows package
 
-when installed,type in userName and user.email
+after installed,type in userName and user.email
 ```bash
 $ git config  --global user.name "You Name"
 $ git config  --global user.email "You Email"
