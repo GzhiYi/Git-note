@@ -109,3 +109,9 @@ $ git branch -d dev
 $ git log --graph --pretty=oneline --abbrev-commit                           //形象显示merge情况
 ```
  ![merge-result](https://github.com/GzhiYi/Git-note/blob/master/img/merge--result.png)
+
+
+## 9.其他命令
+```bash
+$ git push origin --delete <branchName>                                     //删除远程分支
+```
